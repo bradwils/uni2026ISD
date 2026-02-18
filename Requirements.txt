@@ -1,9 +1,10 @@
 Functional:
-Be abke to create a student account
+Be able to create a student account
 Be able to login as a student or admin
 Be able to create a new project
 Be able to update project details
 Be able to delete a project
 As an administrator you should be able to view all projects
 As a student you should be able to view projects that you are a part of
+Students should not be able to remove themselves from projects
 Non Functional:
