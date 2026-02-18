@@ -1,3 +1,4 @@
 Functional:
-
+Be able to login as a student or admin
+Be able to create a new project
 Non Functional:
